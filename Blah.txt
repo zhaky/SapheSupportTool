@@ -1,0 +1,8 @@
+AHK Tutorial
+	https://www.autohotkey.com/docs/Tutorial.htm#s4
+
+GUI tutorial
+	https://jszapp.com/make-beautiful-graphical-user-interface-15-lines-less/
+	
+Notepad++ AHK language file
+	https://www.autohotkey.com/boards/viewtopic.php?f=60&t=50
