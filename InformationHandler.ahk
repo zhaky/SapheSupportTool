@@ -1,8 +1,8 @@
 
+
 ; ACQUIRE AND SEND INFORMATION
 
 ; Name
-
 
 ; Address
 
