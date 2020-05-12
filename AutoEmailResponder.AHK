@@ -1,2 +1,2 @@
-#SingleInstance force ;Closes precious instances of this script
+#SingleInstance force ;Closes previous instances of this script
 
